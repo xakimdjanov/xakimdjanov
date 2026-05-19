@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Isomiddin</h1>
-<h3 align="center">Full Stack Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">💻 Full Stack Developer from Uzbekistan 🇺🇿</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Frontend+Developer;Node.js+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xakimdjanov&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Full Stack Developer
 - 🌱 Currently learning Backend & System Design
@@ -17,29 +21,43 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,docker,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github,docker,java,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xakimdjanov&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xakimdjanov&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xakimdjanov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xakimdjanov&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xakimdjanov&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -55,7 +73,7 @@
 
 ---
 
-## 📞 Contact
+# 📞 Contact
 
 - 📱 Phone: +998 50 570 19 20
 - 💬 Telegram: @Xakimdjanov7
@@ -63,8 +81,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xakimdjanov&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<h3 align="center">⚡ Code • Learn • Build ⚡</h3>
